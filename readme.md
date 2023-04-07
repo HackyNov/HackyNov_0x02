@@ -48,20 +48,20 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 
 | Challenge name            | Categories     | Points | Submissions | Autor |
 |-----------------------------|---------------|------------------|----------------------|----------|
-| [Pas le pingouin qui glisse le plus loin](/writeups/Write-up_Pas_le_pinguoin_qui_glisse_le_plus_loin.pdf) | System | 100 | 22/25 | LINUX |
+| [Pas le pingouin qui glisse le plus loin](/writeups/Write-up_Pas_le_pingouin_qui_glisse_le_plus_loin.pdf) | System | 100 | 22/25 | LINUX |
 | [Vodka](https://github.com/V3luxx/Hackynov-2023) | Web | 50 | 23/25 | V3luxx |
 | [Construct]() | Réseau | 100 | 23/25 | Kur0n33k0 |
 | [Same but different]() | System  | 100 | 21/25 | |
 | [Conversion Trick](https://github.com/Greg-Bondb/Hacky-Nov/tree/main/S2) | Web | 150 | 23/25 | |
 | [L'éternel Débat](https://github.com/tialocRT/Hacky-Nov-Write-Up-2023/tree/main/LeternelDebat)| Web  | 150 | 20/25 | [tialocRT](https://www.linkedin.com/in/billy-desquiens/) |
-| [Injektion]()| Web | 150 | 13/25 | |
-| [File Hunt]() | Web | 150 | 13/25 | |
-| [CTFast]()| Web | 150 | 19/25 | |
+| [Injektion](/writeups/Write-up_Injektion.pdf)| Web | 150 | 13/25 | |
+| [File Hunt](/writeups/Write-up_File_Hunt.pdf) | Web | 150 | 13/25 | |
+| [CTFast](/writeups/CTFast.pdf)| Web | 150 | 19/25 | |
 | [Intercept]() | Stégano | 150 | 18/25 | |
 | [Patissemoi - JS]() | Web | 150 | 15/25 | |
 | Lockpick Box UNE | Lockpicking | 200 | 23/25 | |
 | Lockpick Box TROIS | Lockpicking | 200 | 24/25 | |
-| [Nom de code DIE]() | Web | 200 | 18/25 | |
+| [Nom de code DIE](/writeups/write_up-nom_de_code_die.pdf) | Web | 200 | 18/25 | |
 | [0TRUST]() | Réseau | 200 | 05/25 | |
 | [ESCAPE - Chaine]() | MISC | 200 | 08/25 | |
 | Solitaire DEUX| Lockpicking | 250 | 04/25 | |
@@ -77,14 +77,14 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Hacky'Shop - 2]() | Web | 350 | 02/25 | |
 | [Baby_Crypto]() | Crypto | 400 | 03/25 | |
 | Simply Not My Problem | Réseau | 400 | 00/25 | |
-| [Exploit]() | Réseau | 400 | 01/25 | |
+| [Exploit](/writeups/Write-UP_R%C3%A9seau-Exploit.pdf) | Réseau | 400 | 01/25 | |
 | Hard Life ( Not published ) | Web | 400 | 00/25 | |
-| [Le Blog]() | Web | 400 | 02/25 | |
-| [Belini Do Brazil]() | PWN | 400 | 13/25 | |
+| [Le Blog](/writeups/Write-up_leblog.pdf) | Web | 400 | 02/25 | |
+| [Belini Do Brazil](/writeups/Bellini-do-Brazil.pdf) | PWN | 400 | 13/25 | |
 | [ESCAPE - Libération]() | MISC | 400 | 10/25 | |
-| [D.I.Why_Windows_Cleaning]() | Forensics | 500 | 01/25 | |
+| [D.I.Why_Windows_Cleaning](/writeups/Write-UP_DIWhy_Windows_Cleaning.pdf) | Forensics | 500 | 01/25 | |
 | [MalwareAnalysisLight](https://github.com/tialocRT/Hacky-Nov-Write-Up-2023/tree/main/MalwareAnalysisLight) | Reverse | 500 | 02/25 | [tialocRT](https://www.linkedin.com/in/billy-desquiens/) |
-| [Mauvaises Pratiques]() | MISC | 500 | 17/25 | |
+| [Mauvaises Pratiques](/writeups/mauvaises_pratiques.pdf) | MISC | 500 | 17/25 | |
 | [Patissemoi - 2]() | Web | 600 | 4/25 | |
 | [Med_Crypto]() | Crypto | 600 | 00/25 | |
 | [Tarty'nov](https://github.com/TastyPewPew/HN0x02) | PWN | 600 | 09/25 | [Romain M.](https://www.linkedin.com/in/romain-meysonnet-805618192/) |
