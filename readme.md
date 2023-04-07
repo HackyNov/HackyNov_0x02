@@ -75,7 +75,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Puzzle Picture](https://github.com/Greg-Bondb/Hacky-Nov/tree/main/S2) | MISC | 300 | 07/25 | |
 | HackOrDie | Web | 300 | 07/25 | |
 | Hacky'Shop - 2 | Web | 350 | 02/25 | |
-| Baby_Crypto | Crypto | 400 | 03/25 | |
+| [Baby_Crypto](/writeups/baby_crypto.md) | Crypto | 400 | 03/25 | |
 | Simply Not My Problem | Réseau | 400 | 00/25 | |
 | [Exploit](/writeups/Write-UP_R%C3%A9seau-Exploit.pdf) | Réseau | 400 | 01/25 | |
 | Hard Life ( Not published ) | Web | 400 | 00/25 | |
