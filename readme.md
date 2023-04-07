@@ -48,53 +48,53 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 
 | Challenge name            | Categories     | Points | Submissions | Autor |
 |-----------------------------|---------------|------------------|----------------------|----------|
-| [Pas le pingouin qui glisse le plus loin]() | System | 100 | 22/25 | |
-| [Vodka](https://github.com/V3luxx/Writeups-HN-2023) | Web | 50 | 23/25 | |
-| [Construct]() | Réseau | 100 | 23/25 | |
+| [Pas le pingouin qui glisse le plus loin]() | System | 100 | 22/25 | LINUX |
+| [Vodka](https://github.com/V3luxx/Hackynov-2023) | Web | 50 | 23/25 | V3luxx |
+| [Construct]() | Réseau | 100 | 23/25 | Kur0n33k0 |
 | [Same but different]() | System  | 100 | 21/25 | |
 | [Conversion Trick](https://github.com/Greg-Bondb/Hacky-Nov/tree/main/S2) | Web | 150 | 23/25 | |
-| [L'éternel Débat](https://github.com/VodyHD/Hacky-Nov-Write-Up-2022/tree/main/Burger_King/)| Web  | 150 | 20/25 | |
-| [Injektion](https://github.com/VodyHD/Hacky-Nov-Write-Up-2022/tree/main/Find_Me/)| Web | 150 | 13/25 | |
-| [File Hunt](https://github.com/VodyHD/Hacky-Nov-Write-Up-2022/tree/main/Masturbation_intellectuelle) | Web | 150 | 13/25 | |
-| [CTFast](https://github.com/VodyHD/Hacky-Nov-Write-Up-2022/tree/main/Happy_New_Year/)| Web | 150 | 19/25 | |
-| Intercept | Stégano | 150 | 18/25 | |
-| Patissemoi - JS | Web | 150 | 15/25 | |
+| [L'éternel Débat](https://github.com/tialocRT/Hacky-Nov-Write-Up-2023/tree/main/LeternelDebat)| Web  | 150 | 20/25 | [tialocRT](https://github.com/tialocRT) |
+| [Injektion]()| Web | 150 | 13/25 | |
+| [File Hunt]() | Web | 150 | 13/25 | |
+| [CTFast]()| Web | 150 | 19/25 | |
+| [Intercept]() | Stégano | 150 | 18/25 | |
+| [Patissemoi - JS]() | Web | 150 | 15/25 | |
 | Lockpick Box UNE | Lockpicking | 200 | 23/25 | |
-| [Lockpick Box TROIS]() | Lockpicking | 200 | 24/25 | |
-| [Nom de code DIE](https://github.com/HackyNov/1st-edition-2022/blob/main/WriteUP_Stalker.pdf) | Web | 200 | 18/25 | |
-| [0TRUST](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%203) | Réseau | 200 | 05/25 | |
-| [ESCAPE - Chaine](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%205) | MISC | 200 | 08/25 | |
-| [Solitaire DEUX](https://github.com/Cursecure/CTF_HackyNov/tree/main/1rst%20Edition%20-%202022/Unexpected%20Services) | Lockpicking | 250 | 04/25 | |
+| Lockpick Box TROIS | Lockpicking | 200 | 24/25 | |
+| [Nom de code DIE]() | Web | 200 | 18/25 | |
+| [0TRUST]() | Réseau | 200 | 05/25 | |
+| [ESCAPE - Chaine]() | MISC | 200 | 08/25 | |
+| Solitaire DEUX| Lockpicking | 250 | 04/25 | |
 | Solitaire UN | Lockpicking | 250 | 02/25 | |
-| Une fenêtre sur la sécurité | System | 250 | 18/25 | |
+| [Une fenêtre sur la sécurité]() | System | 250 | 18/25 | |
 | [Limited Time](https://github.com/Greg-Bondb/Hacky-Nov/tree/main/S2) | Web | 250 | 07/25 | |
-| Tous les deux | Stégano | 250 | 01/25 | |
+| [Tous les deux]() | Stégano | 250 | 01/25 | |
 | Lockpick box DEUX | Lockpicking | 300 | 11/25 | |
-| [Ultra Safe Bro](https://github.com/tialocRT/Hacky-Nov-Write-Up-2022/tree/main/Invest_PCAP) | Forensics | 300 | 07/25 | |
-| [Hacky'Shop - 1](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%204) | Web | 300 | 07/25 | |
+| [Ultra Safe Bro]() | Forensics | 300 | 07/25 | |
+| [Hacky'Shop - 1]() | Web | 300 | 07/25 | |
 | [Puzzle Picture](https://github.com/Greg-Bondb/Hacky-Nov/tree/main/S2) | MISC | 300 | 07/25 | |
 | HackOrDie | Web | 300 | 07/25 | |
-| [Hacky'Shop - 2](https://github.com/VodyHD/Hacky-Nov-Write-Up-2022/tree/main/Reveasy/) | Web | 350 | 02/25 | |
-| Baby_Crypto | Crypto | 400 | 03/25 | |
+| [Hacky'Shop - 2]() | Web | 350 | 02/25 | |
+| [Baby_Crypto]() | Crypto | 400 | 03/25 | |
 | Simply Not My Problem | Réseau | 400 | 00/25 | |
-| [Exploit](1rst%20Edition%20-%202022/) | Réseau | 400 | 01/25 | |
-| [Hard Life ( Not published )](1rst%20Edition%20-%202022/) | Web | 400 | 00/25 | |
-| [Le Blog](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/Tweet%20%C3%A9v%C3%A8nement%20!) | Web | 400 | 02/25 | |
-| [Belini Do Brazil](1rst%20Edition%20-%202022/) | PWN | 400 | 13/25 | |
-| [ESCAPE - Libération](1rst%20Edition%20-%202022/) | MISC | 400 | 10/25 | |
-| [D.I.Why_Windows_Cleaning](https://github.com/VodyHD/Hacky-Nov-Write-Up-2022/tree/main/Backup/) | Forensics | 500 | 01/25 | |
-| [MalwareAnalysisLight](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/Connexion) | Reverse | 500 | 02/25 | |
-| [Mauvaises Pratiques](1rst%20Edition%20-%202022/) | MISC | 500 | 17/25 | |
-| [Patissemoi - 2](1rst%20Edition%20-%202022/) | Web | 600 | 4/25 | |
-| [Med_Crypto](https://github.com/tialocRT/Hacky-Nov-Write-Up-2022/tree/main/Perfect_Lab) | Crypto | 600 | 00/25 | |
+| [Exploit]() | Réseau | 400 | 01/25 | |
+| Hard Life ( Not published ) | Web | 400 | 00/25 | |
+| [Le Blog]() | Web | 400 | 02/25 | |
+| [Belini Do Brazil]() | PWN | 400 | 13/25 | |
+| [ESCAPE - Libération]() | MISC | 400 | 10/25 | |
+| [D.I.Why_Windows_Cleaning]() | Forensics | 500 | 01/25 | |
+| [MalwareAnalysisLight](https://github.com/tialocRT/Hacky-Nov-Write-Up-2023/tree/main/MalwareAnalysisLight) | Reverse | 500 | 02/25 | |
+| [Mauvaises Pratiques]() | MISC | 500 | 17/25 | |
+| [Patissemoi - 2]() | Web | 600 | 4/25 | |
+| [Med_Crypto]() | Crypto | 600 | 00/25 | |
 | [Tarty'nov](https://github.com/TastyPewPew/HN0x02) | PWN | 600 | 09/25 | [Romain M.](https://www.linkedin.com/in/romain-meysonnet-805618192/) |
-| [Patissemoi - 1](https://github.com/HackyNov/1st-edition-2022/blob/main/Write_Up_Administration.pdf) | Web | 600 | 05/25 | |
-| [TAMTAM](https://lololekik.com/writeups/hackynov2022/) | System | 600 | 05/25 | |
-| [Gabarit](https://lololekik.com/writeups/hackynov2022/) | PWN | 650 | 04/25 | |
-| La découverte de la Gaule | Réseau | 700 | 00/25 | |
+| [Patissemoi - 1]() | Web | 600 | 05/25 | |
+| [TAMTAM]() | System | 600 | 05/25 | |
+| [Gabarit]() | PWN | 650 | 04/25 | |
+| [La découverte de la Gaule]() | Réseau | 700 | 00/25 | |
 | [La fiole](https://github.com/TastyPewPew/HN0x02) | Web | 700 | 03/25 | [Romain M.](https://www.linkedin.com/in/romain-meysonnet-805618192/)|
-| [GEOINT](https://github.com/v4ss/Hacky_Nov_Write_Up_2022) | OSINT | 700 | 16/25 | |
-| [Not Funny Challenge](https://github.com/HackyNov/1st-edition-2022/blob/main/WriteUP_La_Coquille.pdf) | Lockpicking | 800 | 07/25 | |
-| [HackyFruit](https://github.com/V3luxx/Hacky-nov-Writeup-2022) | Web | 800 | 01/25 | |
-| [Revurst.exe](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/HackyBot) | Reverse | 800 | 00/25 | |
-| [Clean](https://twitter.com/HackyNov) | OSINT | 800 | 06/25 | |
+| [GEOINT]() | OSINT | 700 | 16/25 | |
+| [Not Funny Challenge]() | Lockpicking | 800 | 07/25 | |
+| [HackyFruit]() | Web | 800 | 01/25 | |
+| [Revurst.exe]() | Reverse | 800 | 00/25 | |
+| [Clean]() | OSINT | 800 | 06/25 | |
