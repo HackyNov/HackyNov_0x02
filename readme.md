@@ -48,7 +48,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 
 | Challenge name            | Categories     | Points | Submissions | Autor |
 |-----------------------------|---------------|------------------|----------------------|----------|
-| [Pas le pingouin qui glisse le plus loin]() | System | 100 | 22/25 | LINUX |
+| [Pas le pingouin qui glisse le plus loin](/writeups/Write-up_Pas_le_pinguoin_qui_glisse_le_plus_loin.pdf) | System | 100 | 22/25 | LINUX |
 | [Vodka](https://github.com/V3luxx/Hackynov-2023) | Web | 50 | 23/25 | V3luxx |
 | [Construct]() | Réseau | 100 | 23/25 | Kur0n33k0 |
 | [Same but different]() | System  | 100 | 21/25 | |
@@ -90,7 +90,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Tarty'nov](https://github.com/TastyPewPew/HN0x02) | PWN | 600 | 09/25 | [Romain M.](https://www.linkedin.com/in/romain-meysonnet-805618192/) |
 | [Patissemoi - 1]() | Web | 600 | 05/25 | |
 | [TAMTAM]() | System | 600 | 05/25 | |
-| [Gabarit]() | PWN | 650 | 04/25 | |
+| [Gabarit](/writeups/Gabarit.pdf) | PWN | 650 | 04/25 | |
 | [La découverte de la Gaule]() | Réseau | 700 | 00/25 | |
 | [La fiole](https://github.com/TastyPewPew/HN0x02) | Web | 700 | 03/25 | [Romain M.](https://www.linkedin.com/in/romain-meysonnet-805618192/)|
 | [GEOINT]() | OSINT | 700 | 16/25 | |
