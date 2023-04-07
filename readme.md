@@ -53,7 +53,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Construct]() | Réseau | 100 | 23/25 | Kur0n33k0 |
 | [Same but different]() | System  | 100 | 21/25 | |
 | [Conversion Trick](https://github.com/Greg-Bondb/Hacky-Nov/tree/main/S2) | Web | 150 | 23/25 | |
-| [L'éternel Débat](https://github.com/tialocRT/Hacky-Nov-Write-Up-2023/tree/main/LeternelDebat)| Web  | 150 | 20/25 | [tialocRT](https://github.com/tialocRT) |
+| [L'éternel Débat](https://github.com/tialocRT/Hacky-Nov-Write-Up-2023/tree/main/LeternelDebat)| Web  | 150 | 20/25 | [tialocRT](https://www.linkedin.com/in/billy-desquiens/) |
 | [Injektion]()| Web | 150 | 13/25 | |
 | [File Hunt]() | Web | 150 | 13/25 | |
 | [CTFast]()| Web | 150 | 19/25 | |
@@ -83,7 +83,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Belini Do Brazil]() | PWN | 400 | 13/25 | |
 | [ESCAPE - Libération]() | MISC | 400 | 10/25 | |
 | [D.I.Why_Windows_Cleaning]() | Forensics | 500 | 01/25 | |
-| [MalwareAnalysisLight](https://github.com/tialocRT/Hacky-Nov-Write-Up-2023/tree/main/MalwareAnalysisLight) | Reverse | 500 | 02/25 | |
+| [MalwareAnalysisLight](https://github.com/tialocRT/Hacky-Nov-Write-Up-2023/tree/main/MalwareAnalysisLight) | Reverse | 500 | 02/25 | [tialocRT](https://www.linkedin.com/in/billy-desquiens/) |
 | [Mauvaises Pratiques]() | MISC | 500 | 17/25 | |
 | [Patissemoi - 2]() | Web | 600 | 4/25 | |
 | [Med_Crypto]() | Crypto | 600 | 00/25 | |
