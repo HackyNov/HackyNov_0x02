@@ -71,10 +71,10 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | Tous les deux | Stégano | 250 | 01/25 | |
 | Lockpick box DEUX | Lockpicking | 300 | 11/25 | |
 | Ultra Safe Bro | Forensics | 300 | 07/25 | |
-| Hacky'Shop - 1 | Web | 300 | 07/25 | |
+| [Hacky'Shop - 1](https://github.com/v4ss/Hacky_Nov_Write_Up_2023/tree/main) | Web | 300 | 07/25 | [v4ss](https://github.com/v4ss) |
 | [Puzzle Picture](https://github.com/Greg-Bondb/Hacky-Nov/tree/main/S2) | MISC | 300 | 07/25 | |
 | HackOrDie | Web | 300 | 07/25 | |
-| Hacky'Shop - 2 | Web | 350 | 02/25 | |
+| [Hacky'Shop - 2](https://github.com/v4ss/Hacky_Nov_Write_Up_2023/tree/main) | Web | 350 | 02/25 | [v4ss](https://github.com/v4ss) |
 | [Baby_Crypto](/writeups/baby_crypto.md) | Crypto | 400 | 03/25 | |
 | Simply Not My Problem | Réseau | 400 | 00/25 | |
 | [Exploit](/writeups/Write-UP_R%C3%A9seau-Exploit.pdf) | Réseau | 400 | 01/25 | |
